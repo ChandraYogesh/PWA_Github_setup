@@ -1,0 +1,3 @@
+************** Start Log For Day : '2023-02-10 03:22:21pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Tester','mkoehler@troenergy.io','password','1111111111','46','12 Test','','93437','California','0','2023-02-10')
+************** END Log For Day : '2023-02-10 03:22:21pm'**********

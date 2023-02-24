@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[265],{35265:function(e,c,_){_(72791);c.Z=_.p+"static/media/chargeLogo.ef5bd01eccd0052027433d25c036148c.svg"}}]);
+//# sourceMappingURL=265.8dfcebb1.chunk.js.map

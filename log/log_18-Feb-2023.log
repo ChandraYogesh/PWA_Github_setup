@@ -1,0 +1,36 @@
+************** Start Log For Day : '2023-02-18 02:49:51am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Testing Yogesh','yogeshchandra132000@gmail.com','Yogesh@123','8978899089','62','12345 Test','delhi','123344','Haryana','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 02:49:51am'**********
+************** Start Log For Day : '2023-02-18 03:30:03am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','vharshita@cvinfotech.com','harshita@1234','7854859654','61','Gurugram','gurugram udyog vihar','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 03:30:03am'**********
+************** Start Log For Day : '2023-02-18 03:45:33am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','harshita@1234','7854859658','61','Noida','Noida Sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 03:45:33am'**********
+************** Start Log For Day : '2023-02-18 03:53:28am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','harshita@1234','7854859658','61','noida','noida sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 03:53:28am'**********
+************** Start Log For Day : '2023-02-18 05:06:23am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','harshita@1234','7894567485','61','Noida','Noida Sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 05:06:23am'**********
+************** Start Log For Day : '2023-02-18 06:37:49am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','harshita@1234','7896547854','61','noida','noida sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 06:37:49am'**********
+************** Start Log For Day : '2023-02-18 06:48:03am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','harshita@1234','7854896547','61','Noida','Noida sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 06:48:03am'**********
+************** Start Log For Day : '2023-02-18 07:11:57am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('harshita','harshuvirtodhiya@gmail.com','harshita@1234','7896541236','61','noida','noida sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 07:11:57am'**********
+************** Start Log For Day : '2023-02-18 07:16:12am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','harshita@1234','7854896587','61','noida','noida sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 07:16:12am'**********
+************** Start Log For Day : '2023-02-18 07:21:11am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','harshita@1234','7896587458','61','noida','noida sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 07:21:11am'**********
+************** Start Log For Day : '2023-02-18 07:44:15am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','harshita@1234','7845965874','61','noida','sec44','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 07:44:15am'**********
+************** Start Log For Day : '2023-02-18 08:03:01am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','harshuvirodhiya@gmail.com','har12345','7854896584','61','noida','noida sec 62','112214','Gurgaon','0','2023-02-18','@#12$#')
+************** END Log For Day : '2023-02-18 08:03:01am'**********

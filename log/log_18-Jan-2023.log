@@ -1,0 +1,3 @@
+************** Start Log For Day : '2023-01-18 07:25:57pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Terry Jacoby','terry.jacoby@lhi-cts.com','Dylan2023!','7579041636','46','4001 Virginia Beach Blvd #131','','93437','California','0','2023-01-18')
+************** END Log For Day : '2023-01-18 07:25:57pm'**********

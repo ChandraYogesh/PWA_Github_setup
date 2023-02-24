@@ -1,0 +1,3 @@
+************** Start Log For Day : '2023-02-16 10:16:56pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Harshita','vharshita@cvinfotech.com','harshita@1234','1589658747','48','gurugram','gurugram udyog vihar','93437','California','0','2023-02-16')
+************** END Log For Day : '2023-02-16 10:16:56pm'**********

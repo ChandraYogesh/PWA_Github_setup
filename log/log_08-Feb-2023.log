@@ -1,0 +1,9 @@
+************** Start Log For Day : '2023-02-08 06:18:58am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('chetan soun','chetan.soun@gmail.com','chetansoun','9627419048','46','house no 84','rav','93437','California','0','2023-02-08')
+************** END Log For Day : '2023-02-08 06:18:58am'**********
+************** Start Log For Day : '2023-02-08 08:43:42am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('AMUL ANAND','amulanand1@gmail.com','12345678','9801192300','46','new colony,gali no-7,arearj','hahshhs','93437','California','0','2023-02-08')
+************** END Log For Day : '2023-02-08 08:43:42am'**********
+************** Start Log For Day : '2023-02-08 09:16:31am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('amul','yogesh@cvinfotech.com','12345678','1234567890','46','ywrture','yyeruiheui','93437','California','0','2023-02-08')
+************** END Log For Day : '2023-02-08 09:16:31am'**********

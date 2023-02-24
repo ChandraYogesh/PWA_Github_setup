@@ -1,0 +1,12 @@
+************** Start Log For Day : '2023-01-27 04:37:51am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('amulanand','amulanand1@gmail.com','12345678','1234567890','46','gurgaon','noida','93437','California','0','2023-01-27')
+************** END Log For Day : '2023-01-27 04:37:51am'**********
+************** Start Log For Day : '2023-01-27 06:24:32am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('tester','amulanand1@gmail.com','12345678','1234567890','46','gdhjkds','jhdggsdu','93437','California','0','2023-01-27')
+************** END Log For Day : '2023-01-27 06:24:32am'**********
+************** Start Log For Day : '2023-01-27 06:33:55am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('amul','amulanand1@gmail.com','12345678','1234567890','46','dfdfdf','dfgdsg','93437','California','0','2023-01-27')
+************** END Log For Day : '2023-01-27 06:33:55am'**********
+************** Start Log For Day : '2023-01-27 09:20:48am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('chetan','chetan.soun@gmail.com','chetansoun','9627419048','46','house no 84','near ','93437','California','0','2023-01-27')
+************** END Log For Day : '2023-01-27 09:20:48am'**********

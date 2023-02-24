@@ -1,0 +1,6 @@
+************** Start Log For Day : '2023-02-23 12:28:32am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('harshita','vharashita@cvinfotech.com','123456789','9658745896','61','erwerwe','rwerwere','112214','Gurgaon','0','2023-02-23','')
+************** END Log For Day : '2023-02-23 12:28:32am'**********
+************** Start Log For Day : '2023-02-23 02:37:26am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('jhhgdfhsdf','vvharshita@cvinfotech.com','123456789','1234567890','61','duhrudhguh','hdfhudh','112214','Gurgaon','0','2023-02-23','')
+************** END Log For Day : '2023-02-23 02:37:26am'**********

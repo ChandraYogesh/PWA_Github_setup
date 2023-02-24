@@ -1,0 +1,15 @@
+************** Start Log For Day : '2023-02-22 04:37:02am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','vharshita@cvinfotech.com','har@1234','7485965896','61','gurugram','62','112214','Gurgaon','0','2023-02-22','')
+************** END Log For Day : '2023-02-22 04:37:02am'**********
+************** Start Log For Day : '2023-02-22 05:06:56am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('harshita','vharshita@cvinfotech.com','har@1234','6985478956','61','gurugram','udyog vihar','112214','Gurgaon','0','2023-02-22','')
+************** END Log For Day : '2023-02-22 05:06:56am'**********
+************** Start Log For Day : '2023-02-22 05:35:16am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Harshita','vharshita@cvinfotech.com','har@1234','9658748596','61','Gurugram','gurugram udyog vihar ','112214','Gurgaon','0','2023-02-22','')
+************** END Log For Day : '2023-02-22 05:35:16am'**********
+************** Start Log For Day : '2023-02-22 10:01:53am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('harshita','vharshita@cvinfotech.com','har@1234','7485966547','61','noida','62','112214','Gurgaon','0','2023-02-22','')
+************** END Log For Day : '2023-02-22 10:01:53am'**********
+************** Start Log For Day : '2023-02-22 10:03:39pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`,`email_token`) VALUES ('Yogesh Chandra','pandeysonu132000@gmail.com','Yogesh@123','8978786567','61','Delhi','Delhi02','112214','Gurgaon','0','2023-02-22','')
+************** END Log For Day : '2023-02-22 10:03:39pm'**********

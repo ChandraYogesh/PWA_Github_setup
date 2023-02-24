@@ -1,0 +1,6 @@
+************** Start Log For Day : '2023-01-07 12:13:08am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Edward DeVries','edevries@troenergy.io','asdfasdf','7578696015','47','11 Tomahawk Rd','','84056','Utah','0','2023-01-07')
+************** END Log For Day : '2023-01-07 12:13:08am'**********
+************** Start Log For Day : '2023-01-07 07:10:28am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('chetan','chetan.soun@gmail.com','chetansoun','9627419048','46','house no 84','Dehradun','93437','California','0','2023-01-07')
+************** END Log For Day : '2023-01-07 07:10:28am'**********

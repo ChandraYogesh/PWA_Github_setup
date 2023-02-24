@@ -1,0 +1,944 @@
+Array
+(
+    [id] => evt_3MHRQeSDEVtB59Eu1iS5YDoh
+    [object] => event
+    [api_version] => 2022-08-01
+    [created] => 1671625790
+    [data] => Array
+        (
+            [object] => Array
+                (
+                    [id] => pi_3MHRQeSDEVtB59Eu13R9iCU1
+                    [object] => payment_intent
+                    [amount] => 1000
+                    [amount_capturable] => 0
+                    [amount_details] => Array
+                        (
+                            [tip] => Array
+                                (
+                                )
+
+                        )
+
+                    [amount_received] => 1000
+                    [application] => 
+                    [application_fee_amount] => 
+                    [automatic_payment_methods] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [client_secret] => pi_3MHRQeSDEVtB59Eu13R9iCU1_secret_Bkob7VmkcEfHewioNopklyFsu
+                    [confirmation_method] => automatic
+                    [created] => 1671625788
+                    [currency] => inr
+                    [customer] => cus_N1UPXIzsulynIb
+                    [description] => Subscription creation
+                    [invoice] => in_1MHRQeSDEVtB59EuHyAUVLQz
+                    [last_payment_error] => 
+                    [livemode] => 
+                    [metadata] => Array
+                        (
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => pm_1MHRQdSDEVtB59EuIrqdM6HY
+                    [payment_method_options] => Array
+                        (
+                            [card] => Array
+                                (
+                                    [installments] => 
+                                    [mandate_options] => Array
+                                        (
+                                            [amount] => 1000
+                                            [amount_type] => maximum
+                                            [description] => Daily Plan
+                                            [end_date] => 
+                                            [interval] => day
+                                            [interval_count] => 1
+                                            [reference] => sub_1MHRQeSDEVtB59EuKVi1zSCS - 1671625788
+                                            [start_date] => 1671625788
+                                            [supported_types] => Array
+                                                (
+                                                    [0] => india
+                                                )
+
+                                        )
+
+                                    [network] => 
+                                    [request_three_d_secure] => any
+                                    [setup_future_usage] => off_session
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                        )
+
+                    [processing] => 
+                    [receipt_email] => 
+                    [review] => 
+                    [setup_future_usage] => off_session
+                    [shipping] => 
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => succeeded
+                    [transfer_data] => 
+                    [transfer_group] => 
+                    [charges] => Array
+                        (
+                            [object] => list
+                            [data] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => ch_3MHRQeSDEVtB59Eu1wseZhfm
+                                            [object] => charge
+                                            [amount] => 1000
+                                            [amount_captured] => 1000
+                                            [amount_refunded] => 0
+                                            [application] => 
+                                            [application_fee] => 
+                                            [application_fee_amount] => 
+                                            [balance_transaction] => txn_3MHRQeSDEVtB59Eu1JbjlcAM
+                                            [billing_details] => Array
+                                                (
+                                                    [address] => Array
+                                                        (
+                                                            [city] => 
+                                                            [country] => IN
+                                                            [line1] => 
+                                                            [line2] => 
+                                                            [postal_code] => 
+                                                            [state] => 
+                                                        )
+
+                                                    [email] => pranjan@cvinfotech.com
+                                                    [name] => Kamlesh
+                                                    [phone] => 
+                                                )
+
+                                            [calculated_statement_descriptor] => Stripe
+                                            [captured] => 1
+                                            [created] => 1671625789
+                                            [currency] => inr
+                                            [customer] => cus_N1UPXIzsulynIb
+                                            [description] => Subscription creation
+                                            [destination] => 
+                                            [dispute] => 
+                                            [disputed] => 
+                                            [failure_balance_transaction] => 
+                                            [failure_code] => 
+                                            [failure_message] => 
+                                            [fraud_details] => Array
+                                                (
+                                                )
+
+                                            [invoice] => in_1MHRQeSDEVtB59EuHyAUVLQz
+                                            [livemode] => 
+                                            [metadata] => Array
+                                                (
+                                                )
+
+                                            [on_behalf_of] => 
+                                            [order] => 
+                                            [outcome] => Array
+                                                (
+                                                    [network_status] => approved_by_network
+                                                    [reason] => 
+                                                    [risk_level] => normal
+                                                    [risk_score] => 24
+                                                    [seller_message] => Payment complete.
+                                                    [type] => authorized
+                                                )
+
+                                            [paid] => 1
+                                            [payment_intent] => pi_3MHRQeSDEVtB59Eu13R9iCU1
+                                            [payment_method] => pm_1MHRQdSDEVtB59EuIrqdM6HY
+                                            [payment_method_details] => Array
+                                                (
+                                                    [card] => Array
+                                                        (
+                                                            [brand] => visa
+                                                            [checks] => Array
+                                                                (
+                                                                    [address_line1_check] => 
+                                                                    [address_postal_code_check] => 
+                                                                    [cvc_check] => pass
+                                                                )
+
+                                                            [country] => US
+                                                            [exp_month] => 11
+                                                            [exp_year] => 2024
+                                                            [fingerprint] => DrF1a9dRRTP3SKzG
+                                                            [funding] => credit
+                                                            [installments] => 
+                                                            [last4] => 4242
+                                                            [mandate] => 
+                                                            [network] => visa
+                                                            [three_d_secure] => 
+                                                            [wallet] => 
+                                                        )
+
+                                                    [type] => card
+                                                )
+
+                                            [receipt_email] => 
+                                            [receipt_number] => 
+                                            [receipt_url] => https://pay.stripe.com/receipts/invoices/CAcaFwoVYWNjdF8xTUd6VFVTREVWdEI1OUV1KMD4i50GMgYXieu2mI46LBauRoFxN1tPhjslnzo3RhU7J_nY4vUUXyrhQdcUqDjYxTB_Gy3QRdmnINEx?s=ap
+                                            [refunded] => 
+                                            [refunds] => Array
+                                                (
+                                                    [object] => list
+                                                    [data] => Array
+                                                        (
+                                                        )
+
+                                                    [has_more] => 
+                                                    [total_count] => 0
+                                                    [url] => /v1/charges/ch_3MHRQeSDEVtB59Eu1wseZhfm/refunds
+                                                )
+
+                                            [review] => 
+                                            [shipping] => 
+                                            [source] => 
+                                            [source_transfer] => 
+                                            [statement_descriptor] => 
+                                            [statement_descriptor_suffix] => 
+                                            [status] => succeeded
+                                            [transfer_data] => 
+                                            [transfer_group] => 
+                                        )
+
+                                )
+
+                            [has_more] => 
+                            [total_count] => 1
+                            [url] => /v1/charges?payment_intent=pi_3MHRQeSDEVtB59Eu13R9iCU1
+                        )
+
+                )
+
+        )
+
+    [livemode] => 
+    [pending_webhooks] => 1
+    [request] => Array
+        (
+            [id] => req_GEFR9Tn11arzOw
+            [idempotency_key] => 6098d596-ebe7-4b88-a7c2-44f93395de08
+        )
+
+    [type] => payment_intent.succeeded
+)
+Array
+(
+    [id] => evt_3MHRbjSDEVtB59Eu0zSKtnbY
+    [object] => event
+    [api_version] => 2022-08-01
+    [created] => 1671626477
+    [data] => Array
+        (
+            [object] => Array
+                (
+                    [id] => pi_3MHRbjSDEVtB59Eu0ROGWzS8
+                    [object] => payment_intent
+                    [amount] => 1000
+                    [amount_capturable] => 0
+                    [amount_details] => Array
+                        (
+                            [tip] => Array
+                                (
+                                )
+
+                        )
+
+                    [amount_received] => 1000
+                    [application] => 
+                    [application_fee_amount] => 
+                    [automatic_payment_methods] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [client_secret] => pi_3MHRbjSDEVtB59Eu0ROGWzS8_secret_SFcehKTOSzl53JqNwnDcxShtA
+                    [confirmation_method] => automatic
+                    [created] => 1671626475
+                    [currency] => inr
+                    [customer] => cus_N1UaLklEe723uq
+                    [description] => Subscription creation
+                    [invoice] => in_1MHRbiSDEVtB59EuzGhsEksO
+                    [last_payment_error] => 
+                    [livemode] => 
+                    [metadata] => Array
+                        (
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => pm_1MHRbhSDEVtB59EuWt3Yh0U4
+                    [payment_method_options] => Array
+                        (
+                            [card] => Array
+                                (
+                                    [installments] => 
+                                    [mandate_options] => Array
+                                        (
+                                            [amount] => 1000
+                                            [amount_type] => maximum
+                                            [description] => Daily Plan
+                                            [end_date] => 
+                                            [interval] => day
+                                            [interval_count] => 1
+                                            [reference] => sub_1MHRbiSDEVtB59EumSqndEm6 - 1671626475
+                                            [start_date] => 1671626474
+                                            [supported_types] => Array
+                                                (
+                                                    [0] => india
+                                                )
+
+                                        )
+
+                                    [network] => 
+                                    [request_three_d_secure] => any
+                                    [setup_future_usage] => off_session
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                        )
+
+                    [processing] => 
+                    [receipt_email] => 
+                    [review] => 
+                    [setup_future_usage] => off_session
+                    [shipping] => 
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => succeeded
+                    [transfer_data] => 
+                    [transfer_group] => 
+                    [charges] => Array
+                        (
+                            [object] => list
+                            [data] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => ch_3MHRbjSDEVtB59Eu0khOa8G8
+                                            [object] => charge
+                                            [amount] => 1000
+                                            [amount_captured] => 1000
+                                            [amount_refunded] => 0
+                                            [application] => 
+                                            [application_fee] => 
+                                            [application_fee_amount] => 
+                                            [balance_transaction] => txn_3MHRbjSDEVtB59Eu0jv3JoEt
+                                            [billing_details] => Array
+                                                (
+                                                    [address] => Array
+                                                        (
+                                                            [city] => 
+                                                            [country] => IN
+                                                            [line1] => 
+                                                            [line2] => 
+                                                            [postal_code] => 
+                                                            [state] => 
+                                                        )
+
+                                                    [email] => pranjan@cvinfotech.com
+                                                    [name] => Kamlesh
+                                                    [phone] => 
+                                                )
+
+                                            [calculated_statement_descriptor] => Stripe
+                                            [captured] => 1
+                                            [created] => 1671626475
+                                            [currency] => inr
+                                            [customer] => cus_N1UaLklEe723uq
+                                            [description] => Subscription creation
+                                            [destination] => 
+                                            [dispute] => 
+                                            [disputed] => 
+                                            [failure_balance_transaction] => 
+                                            [failure_code] => 
+                                            [failure_message] => 
+                                            [fraud_details] => Array
+                                                (
+                                                )
+
+                                            [invoice] => in_1MHRbiSDEVtB59EuzGhsEksO
+                                            [livemode] => 
+                                            [metadata] => Array
+                                                (
+                                                )
+
+                                            [on_behalf_of] => 
+                                            [order] => 
+                                            [outcome] => Array
+                                                (
+                                                    [network_status] => approved_by_network
+                                                    [reason] => 
+                                                    [risk_level] => normal
+                                                    [risk_score] => 26
+                                                    [seller_message] => Payment complete.
+                                                    [type] => authorized
+                                                )
+
+                                            [paid] => 1
+                                            [payment_intent] => pi_3MHRbjSDEVtB59Eu0ROGWzS8
+                                            [payment_method] => pm_1MHRbhSDEVtB59EuWt3Yh0U4
+                                            [payment_method_details] => Array
+                                                (
+                                                    [card] => Array
+                                                        (
+                                                            [brand] => visa
+                                                            [checks] => Array
+                                                                (
+                                                                    [address_line1_check] => 
+                                                                    [address_postal_code_check] => 
+                                                                    [cvc_check] => pass
+                                                                )
+
+                                                            [country] => US
+                                                            [exp_month] => 11
+                                                            [exp_year] => 2024
+                                                            [fingerprint] => DrF1a9dRRTP3SKzG
+                                                            [funding] => credit
+                                                            [installments] => 
+                                                            [last4] => 4242
+                                                            [mandate] => 
+                                                            [network] => visa
+                                                            [three_d_secure] => 
+                                                            [wallet] => 
+                                                        )
+
+                                                    [type] => card
+                                                )
+
+                                            [receipt_email] => 
+                                            [receipt_number] => 
+                                            [receipt_url] => https://pay.stripe.com/receipts/invoices/CAcaFwoVYWNjdF8xTUd6VFVTREVWdEI1OUV1KO_9i50GMga8Y1ZJvAw6LBbedlBwrEVblwCalWX5_BB-gRaQHztsM8LGIiKOMkRQgKt5oV-nN5wqNJYv?s=ap
+                                            [refunded] => 
+                                            [refunds] => Array
+                                                (
+                                                    [object] => list
+                                                    [data] => Array
+                                                        (
+                                                        )
+
+                                                    [has_more] => 
+                                                    [total_count] => 0
+                                                    [url] => /v1/charges/ch_3MHRbjSDEVtB59Eu0khOa8G8/refunds
+                                                )
+
+                                            [review] => 
+                                            [shipping] => 
+                                            [source] => 
+                                            [source_transfer] => 
+                                            [statement_descriptor] => 
+                                            [statement_descriptor_suffix] => 
+                                            [status] => succeeded
+                                            [transfer_data] => 
+                                            [transfer_group] => 
+                                        )
+
+                                )
+
+                            [has_more] => 
+                            [total_count] => 1
+                            [url] => /v1/charges?payment_intent=pi_3MHRbjSDEVtB59Eu0ROGWzS8
+                        )
+
+                )
+
+        )
+
+    [livemode] => 
+    [pending_webhooks] => 1
+    [request] => Array
+        (
+            [id] => req_s5A9a4xZrpVzQr
+            [idempotency_key] => 1e9c77cb-b064-4279-84a4-c82194a987c7
+        )
+
+    [type] => payment_intent.succeeded
+)
+Array
+(
+    [id] => evt_3MHRfUSDEVtB59Eu0vDSeSos
+    [object] => event
+    [api_version] => 2022-08-01
+    [created] => 1671626710
+    [data] => Array
+        (
+            [object] => Array
+                (
+                    [id] => pi_3MHRfUSDEVtB59Eu0cgrhiCH
+                    [object] => payment_intent
+                    [amount] => 1000
+                    [amount_capturable] => 0
+                    [amount_details] => Array
+                        (
+                            [tip] => Array
+                                (
+                                )
+
+                        )
+
+                    [amount_received] => 1000
+                    [application] => 
+                    [application_fee_amount] => 
+                    [automatic_payment_methods] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [client_secret] => pi_3MHRfUSDEVtB59Eu0cgrhiCH_secret_GXaB1peZq7fVRepVkqFfpdU9y
+                    [confirmation_method] => automatic
+                    [created] => 1671626708
+                    [currency] => inr
+                    [customer] => cus_N1UelMqI6GiGCv
+                    [description] => Subscription creation
+                    [invoice] => in_1MHRfTSDEVtB59EuQsGUvIV2
+                    [last_payment_error] => 
+                    [livemode] => 
+                    [metadata] => Array
+                        (
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => pm_1MHRfSSDEVtB59EuV4h9DJ17
+                    [payment_method_options] => Array
+                        (
+                            [card] => Array
+                                (
+                                    [installments] => 
+                                    [mandate_options] => Array
+                                        (
+                                            [amount] => 1000
+                                            [amount_type] => maximum
+                                            [description] => Daily Plan
+                                            [end_date] => 
+                                            [interval] => day
+                                            [interval_count] => 1
+                                            [reference] => sub_1MHRfTSDEVtB59EuydLg6akr - 1671626707
+                                            [start_date] => 1671626707
+                                            [supported_types] => Array
+                                                (
+                                                    [0] => india
+                                                )
+
+                                        )
+
+                                    [network] => 
+                                    [request_three_d_secure] => any
+                                    [setup_future_usage] => off_session
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                        )
+
+                    [processing] => 
+                    [receipt_email] => 
+                    [review] => 
+                    [setup_future_usage] => off_session
+                    [shipping] => 
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => succeeded
+                    [transfer_data] => 
+                    [transfer_group] => 
+                    [charges] => Array
+                        (
+                            [object] => list
+                            [data] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => ch_3MHRfUSDEVtB59Eu0HDNXaPz
+                                            [object] => charge
+                                            [amount] => 1000
+                                            [amount_captured] => 1000
+                                            [amount_refunded] => 0
+                                            [application] => 
+                                            [application_fee] => 
+                                            [application_fee_amount] => 
+                                            [balance_transaction] => txn_3MHRfUSDEVtB59Eu0fEmXPPW
+                                            [billing_details] => Array
+                                                (
+                                                    [address] => Array
+                                                        (
+                                                            [city] => 
+                                                            [country] => IN
+                                                            [line1] => 
+                                                            [line2] => 
+                                                            [postal_code] => 
+                                                            [state] => 
+                                                        )
+
+                                                    [email] => pranjan@cvinfotech.com
+                                                    [name] => Kamlesh
+                                                    [phone] => 
+                                                )
+
+                                            [calculated_statement_descriptor] => Stripe
+                                            [captured] => 1
+                                            [created] => 1671626708
+                                            [currency] => inr
+                                            [customer] => cus_N1UelMqI6GiGCv
+                                            [description] => Subscription creation
+                                            [destination] => 
+                                            [dispute] => 
+                                            [disputed] => 
+                                            [failure_balance_transaction] => 
+                                            [failure_code] => 
+                                            [failure_message] => 
+                                            [fraud_details] => Array
+                                                (
+                                                )
+
+                                            [invoice] => in_1MHRfTSDEVtB59EuQsGUvIV2
+                                            [livemode] => 
+                                            [metadata] => Array
+                                                (
+                                                )
+
+                                            [on_behalf_of] => 
+                                            [order] => 
+                                            [outcome] => Array
+                                                (
+                                                    [network_status] => approved_by_network
+                                                    [reason] => 
+                                                    [risk_level] => normal
+                                                    [risk_score] => 10
+                                                    [seller_message] => Payment complete.
+                                                    [type] => authorized
+                                                )
+
+                                            [paid] => 1
+                                            [payment_intent] => pi_3MHRfUSDEVtB59Eu0cgrhiCH
+                                            [payment_method] => pm_1MHRfSSDEVtB59EuV4h9DJ17
+                                            [payment_method_details] => Array
+                                                (
+                                                    [card] => Array
+                                                        (
+                                                            [brand] => visa
+                                                            [checks] => Array
+                                                                (
+                                                                    [address_line1_check] => 
+                                                                    [address_postal_code_check] => 
+                                                                    [cvc_check] => pass
+                                                                )
+
+                                                            [country] => US
+                                                            [exp_month] => 11
+                                                            [exp_year] => 2024
+                                                            [fingerprint] => DrF1a9dRRTP3SKzG
+                                                            [funding] => credit
+                                                            [installments] => 
+                                                            [last4] => 4242
+                                                            [mandate] => 
+                                                            [network] => visa
+                                                            [three_d_secure] => 
+                                                            [wallet] => 
+                                                        )
+
+                                                    [type] => card
+                                                )
+
+                                            [receipt_email] => 
+                                            [receipt_number] => 
+                                            [receipt_url] => https://pay.stripe.com/receipts/invoices/CAcaFwoVYWNjdF8xTUd6VFVTREVWdEI1OUV1KNj_i50GMgbgR5umIkQ6LBaUw-uMGF1CkPZHYy4LZEwjuOEsc3elnWSZvevkpBTZpY2CUxv_wYV5PFIx?s=ap
+                                            [refunded] => 
+                                            [refunds] => Array
+                                                (
+                                                    [object] => list
+                                                    [data] => Array
+                                                        (
+                                                        )
+
+                                                    [has_more] => 
+                                                    [total_count] => 0
+                                                    [url] => /v1/charges/ch_3MHRfUSDEVtB59Eu0HDNXaPz/refunds
+                                                )
+
+                                            [review] => 
+                                            [shipping] => 
+                                            [source] => 
+                                            [source_transfer] => 
+                                            [statement_descriptor] => 
+                                            [statement_descriptor_suffix] => 
+                                            [status] => succeeded
+                                            [transfer_data] => 
+                                            [transfer_group] => 
+                                        )
+
+                                )
+
+                            [has_more] => 
+                            [total_count] => 1
+                            [url] => /v1/charges?payment_intent=pi_3MHRfUSDEVtB59Eu0cgrhiCH
+                        )
+
+                )
+
+        )
+
+    [livemode] => 
+    [pending_webhooks] => 1
+    [request] => Array
+        (
+            [id] => req_kLFSiIPQDf3RY8
+            [idempotency_key] => f4fcc04e-d913-4d83-ab58-851874a76b64
+        )
+
+    [type] => payment_intent.succeeded
+)
+Array
+(
+    [id] => evt_3MHRvzSDEVtB59Eu1EuLNO7P
+    [object] => event
+    [api_version] => 2022-08-01
+    [created] => 1671627733
+    [data] => Array
+        (
+            [object] => Array
+                (
+                    [id] => pi_3MHRvzSDEVtB59Eu1KMYT7lf
+                    [object] => payment_intent
+                    [amount] => 1000
+                    [amount_capturable] => 0
+                    [amount_details] => Array
+                        (
+                            [tip] => Array
+                                (
+                                )
+
+                        )
+
+                    [amount_received] => 1000
+                    [application] => 
+                    [application_fee_amount] => 
+                    [automatic_payment_methods] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [client_secret] => pi_3MHRvzSDEVtB59Eu1KMYT7lf_secret_CV0iqEf9cPzw8w8efmQwB4g5y
+                    [confirmation_method] => automatic
+                    [created] => 1671627731
+                    [currency] => inr
+                    [customer] => cus_N1UvJoXwO0HmmD
+                    [description] => Subscription creation
+                    [invoice] => in_1MHRvzSDEVtB59Eubjiv3tTM
+                    [last_payment_error] => 
+                    [livemode] => 
+                    [metadata] => Array
+                        (
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => pm_1MHRvxSDEVtB59Eu1e6YX4Cy
+                    [payment_method_options] => Array
+                        (
+                            [card] => Array
+                                (
+                                    [installments] => 
+                                    [mandate_options] => Array
+                                        (
+                                            [amount] => 1000
+                                            [amount_type] => maximum
+                                            [description] => Daily Plan
+                                            [end_date] => 
+                                            [interval] => day
+                                            [interval_count] => 1
+                                            [reference] => sub_1MHRvzSDEVtB59EuKdUdR23w - 1671627731
+                                            [start_date] => 1671627731
+                                            [supported_types] => Array
+                                                (
+                                                    [0] => india
+                                                )
+
+                                        )
+
+                                    [network] => 
+                                    [request_three_d_secure] => any
+                                    [setup_future_usage] => off_session
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                        )
+
+                    [processing] => 
+                    [receipt_email] => 
+                    [review] => 
+                    [setup_future_usage] => off_session
+                    [shipping] => 
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => succeeded
+                    [transfer_data] => 
+                    [transfer_group] => 
+                    [charges] => Array
+                        (
+                            [object] => list
+                            [data] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => ch_3MHRvzSDEVtB59Eu1tvk8x0w
+                                            [object] => charge
+                                            [amount] => 1000
+                                            [amount_captured] => 1000
+                                            [amount_refunded] => 0
+                                            [application] => 
+                                            [application_fee] => 
+                                            [application_fee_amount] => 
+                                            [balance_transaction] => txn_3MHRvzSDEVtB59Eu1rGUCwqe
+                                            [billing_details] => Array
+                                                (
+                                                    [address] => Array
+                                                        (
+                                                            [city] => 
+                                                            [country] => IN
+                                                            [line1] => 
+                                                            [line2] => 
+                                                            [postal_code] => 
+                                                            [state] => 
+                                                        )
+
+                                                    [email] => vikram@cvinfotech.com
+                                                    [name] => Vikram
+                                                    [phone] => 
+                                                )
+
+                                            [calculated_statement_descriptor] => Stripe
+                                            [captured] => 1
+                                            [created] => 1671627732
+                                            [currency] => inr
+                                            [customer] => cus_N1UvJoXwO0HmmD
+                                            [description] => Subscription creation
+                                            [destination] => 
+                                            [dispute] => 
+                                            [disputed] => 
+                                            [failure_balance_transaction] => 
+                                            [failure_code] => 
+                                            [failure_message] => 
+                                            [fraud_details] => Array
+                                                (
+                                                )
+
+                                            [invoice] => in_1MHRvzSDEVtB59Eubjiv3tTM
+                                            [livemode] => 
+                                            [metadata] => Array
+                                                (
+                                                )
+
+                                            [on_behalf_of] => 
+                                            [order] => 
+                                            [outcome] => Array
+                                                (
+                                                    [network_status] => approved_by_network
+                                                    [reason] => 
+                                                    [risk_level] => normal
+                                                    [risk_score] => 51
+                                                    [seller_message] => Payment complete.
+                                                    [type] => authorized
+                                                )
+
+                                            [paid] => 1
+                                            [payment_intent] => pi_3MHRvzSDEVtB59Eu1KMYT7lf
+                                            [payment_method] => pm_1MHRvxSDEVtB59Eu1e6YX4Cy
+                                            [payment_method_details] => Array
+                                                (
+                                                    [card] => Array
+                                                        (
+                                                            [brand] => visa
+                                                            [checks] => Array
+                                                                (
+                                                                    [address_line1_check] => 
+                                                                    [address_postal_code_check] => 
+                                                                    [cvc_check] => pass
+                                                                )
+
+                                                            [country] => US
+                                                            [exp_month] => 11
+                                                            [exp_year] => 2024
+                                                            [fingerprint] => DrF1a9dRRTP3SKzG
+                                                            [funding] => credit
+                                                            [installments] => 
+                                                            [last4] => 4242
+                                                            [mandate] => 
+                                                            [network] => visa
+                                                            [three_d_secure] => 
+                                                            [wallet] => 
+                                                        )
+
+                                                    [type] => card
+                                                )
+
+                                            [receipt_email] => 
+                                            [receipt_number] => 
+                                            [receipt_url] => https://pay.stripe.com/receipts/invoices/CAcaFwoVYWNjdF8xTUd6VFVTREVWdEI1OUV1KNeHjJ0GMgaT645kceE6LBa_d4J38r8ChTw-pMAfWQP7wOtLCKLgHSXg1J7a2cVCaulbzeF9b3qPVBRo?s=ap
+                                            [refunded] => 
+                                            [refunds] => Array
+                                                (
+                                                    [object] => list
+                                                    [data] => Array
+                                                        (
+                                                        )
+
+                                                    [has_more] => 
+                                                    [total_count] => 0
+                                                    [url] => /v1/charges/ch_3MHRvzSDEVtB59Eu1tvk8x0w/refunds
+                                                )
+
+                                            [review] => 
+                                            [shipping] => 
+                                            [source] => 
+                                            [source_transfer] => 
+                                            [statement_descriptor] => 
+                                            [statement_descriptor_suffix] => 
+                                            [status] => succeeded
+                                            [transfer_data] => 
+                                            [transfer_group] => 
+                                        )
+
+                                )
+
+                            [has_more] => 
+                            [total_count] => 1
+                            [url] => /v1/charges?payment_intent=pi_3MHRvzSDEVtB59Eu1KMYT7lf
+                        )
+
+                )
+
+        )
+
+    [livemode] => 
+    [pending_webhooks] => 1
+    [request] => Array
+        (
+            [id] => req_xkqvI8weoqWCLm
+            [idempotency_key] => e68f7e91-5ca0-4bbe-ab53-1e709ae60d5e
+        )
+
+    [type] => payment_intent.succeeded
+)

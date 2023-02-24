@@ -1,0 +1,3 @@
+************** Start Log For Day : '2023-01-20 02:29:50pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Jeff McKinney','chaplainmckinney@gmail.com','Tinytill911!','7139797265','55','166 Summer Creek Ln','','28307','North Carolina','0','2023-01-20')
+************** END Log For Day : '2023-01-20 02:29:50pm'**********

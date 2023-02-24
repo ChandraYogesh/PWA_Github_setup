@@ -1,0 +1,39 @@
+************** Start Log For Day : '2023-01-11 04:45:32am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('testing','testing1@gmail.com','12345678','0987654321','46','testing','testing2','93437','California','0','2023-01-11')
+************** END Log For Day : '2023-01-11 04:45:32am'**********
+************** Start Log For Day : '2023-01-11 05:09:52am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('  ','mkoehler@troenergy.io','password','0000000000','47','     ','','84056','Utah','0','2023-01-11')
+************** END Log For Day : '2023-01-11 05:09:52am'**********
+************** Start Log For Day : '2023-01-11 09:58:09am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('amul anand','amulanand1@gmail.com','12345678','8271669800','46','gurgaon','noida','93437','California','0','2023-01-11')
+************** END Log For Day : '2023-01-11 09:58:09am'**********
+************** Start Log For Day : '2023-01-11 10:04:15am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('amul anand','amulanand1@gmail.com','12345678','8271669800','46','gurgaon','noida','93437','California','0','2023-01-11')
+************** END Log For Day : '2023-01-11 10:04:15am'**********
+************** Start Log For Day : '2023-01-11 10:17:35am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Chetan soun','chetan.soun@gmail.com','chetansoun','9627419048','47','House no 84','Dehradun ','84056','Utah','0','2023-01-11')
+************** END Log For Day : '2023-01-11 10:17:35am'**********
+************** Start Log For Day : '2023-01-11 01:49:17pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Test','mskoehler@email.wm.edu','password','0000000000','46','test-','','93437','California','0','2023-01-11')
+************** END Log For Day : '2023-01-11 01:49:17pm'**********
+************** Start Log For Day : '2023-01-11 03:45:13pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Edward DeVries','eddiemd23@gmail.com','asdfasdf','7578696015','47','1234 Test Lane','','84056','Utah','0','2023-01-11')
+************** END Log For Day : '2023-01-11 03:45:13pm'**********
+************** Start Log For Day : '2023-01-11 04:00:00pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('  ','mtthwkhlr@gmail.com','password','0000000000','46','     ','','93437','California','0','2023-01-11')
+************** END Log For Day : '2023-01-11 04:00:00pm'**********
+************** Start Log For Day : '2023-01-11 04:02:02pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Dm','david.mckinney@lhi-cts.com','password','7577737058','46','Steeet','123','93437','California','0','2023-01-11')
+************** END Log For Day : '2023-01-11 04:02:02pm'**********
+************** Start Log For Day : '2023-01-11 04:13:29pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Test','mkoehler@troenergy.io','password','0000000000','46','test1','','93437','California','0','2023-01-11')
+************** END Log For Day : '2023-01-11 04:13:29pm'**********
+************** Start Log For Day : '2023-01-11 04:17:23pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('David','david.mckinney@lhi-cts.com','password','7577737058','47','Atreet','Street','84056','Utah','0','2023-01-11')
+************** END Log For Day : '2023-01-11 04:17:23pm'**********
+************** Start Log For Day : '2023-01-11 04:20:04pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Stephanie McKinney','mckinney617520@gmail.com','3v3nT12016','7576356015','48','1503 s sea breeze','','06349','Connecticut','0','2023-01-11')
+************** END Log For Day : '2023-01-11 04:20:04pm'**********
+************** Start Log For Day : '2023-01-11 04:36:45pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('  ','mskoehler@email.wm.edu','password','0000000000','53','       ','','-1','The Moon','0','2023-01-11')
+************** END Log For Day : '2023-01-11 04:36:45pm'**********

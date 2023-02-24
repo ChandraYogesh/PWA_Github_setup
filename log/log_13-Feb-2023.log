@@ -1,0 +1,3 @@
+************** Start Log For Day : '2023-02-13 12:43:08am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Yogesh Chandra','yogesh@cvinfotech.com','Yogesh@12345','8978897867','47','Test Environment Data','23, 456 ','93437','California','0','2023-02-13')
+************** END Log For Day : '2023-02-13 12:43:08am'**********

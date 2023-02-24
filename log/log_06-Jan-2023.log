@@ -1,0 +1,21 @@
+************** Start Log For Day : '2023-01-06 06:41:24am'**********
+how to create log file in php?
+************** END Log For Day : '2023-01-06 06:41:24am'**********
+************** Start Log For Day : '2023-01-06 06:41:27am'**********
+how to create log file in php?
+************** END Log For Day : '2023-01-06 06:41:27am'**********
+************** Start Log For Day : '2023-01-06 06:41:29am'**********
+how to create log file in php?
+************** END Log For Day : '2023-01-06 06:41:29am'**********
+************** Start Log For Day : '2023-01-06 06:52:40am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Testing','testing2008@gmail.com','12345678','9999999999','47','Gh9 134','Address Line','84056','Utah','0','2023-01-06')
+************** END Log For Day : '2023-01-06 06:52:40am'**********
+************** Start Log For Day : '2023-01-06 08:32:38am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('chetan','chetan.soun@gmail.com','chetansoun','9627419048','46','House no 84','Dehradun','93437','California','0','2023-01-06')
+************** END Log For Day : '2023-01-06 08:32:38am'**********
+************** Start Log For Day : '2023-01-06 04:47:23pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Tester','mkoehler@troenergy.io','password','1234567890','48','12 place','','06349','Connecticut','0','2023-01-06')
+************** END Log For Day : '2023-01-06 04:47:23pm'**********
+************** Start Log For Day : '2023-01-06 05:39:48pm'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('Twst','mskoehler@email.wm.edu','password','1234567890','46','12 street','','93437','California','0','2023-01-06')
+************** END Log For Day : '2023-01-06 05:39:48pm'**********

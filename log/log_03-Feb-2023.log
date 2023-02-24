@@ -1,0 +1,3 @@
+************** Start Log For Day : '2023-02-03 08:59:41am'**********
+INSERT INTO `pwa_registration`(`pwa_name`, `pwa_email`, `pwa_password`, `pwa_mobile`, `pwa_choice`, `pwa_add1`, `pwa_add2`, `pwa_zip`, `pwa_state`,`pwa_status`, `pwa_date`) VALUES ('amul anand','amul@cvinfotech.com','12345678','8271669800','46','gurgaon','noida','93437','California','0','2023-02-03')
+************** END Log For Day : '2023-02-03 08:59:41am'**********
